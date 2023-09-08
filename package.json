@@ -1,0 +1,19 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "\"final de javaScript comision 55265\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arquidamo/entrega-final-Arquidamo-de.esparta.git"
+  },
+  "author": "\"Arquidamo de Esparta\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arquidamo/entrega-final-Arquidamo-de.esparta/issues"
+  },
+  "homepage": "https://github.com/arquidamo/entrega-final-Arquidamo-de.esparta#readme"
+}
